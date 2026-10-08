@@ -1,4 +1,4 @@
-# Módulo: [Comunidad y Valoraciones]
+# Módulo: [Comunidad y Valoraciones] celula 6
 
 ## 📋 Documentación
 - [Backlog](./docs/backlog.md)
@@ -11,7 +11,9 @@
 - **Experiencia: 3 Meses de formación** ...
 - **Capacidades: Trabajo en equipo** ...
 - **Contacto: 312 730 9806 / Redes:** ...
+
 ### [Juan Felipe Isaza Vasquez] - [Rol]
 - **Experiencia:3 meses 
 - **Capacidades:desarrollador  
 - **Contacto / Redes: 3208801757 / isazavasquez9@gmail.com
+
